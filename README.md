@@ -16,3 +16,4 @@ Here are the steps used to build this project:
 3. Create navbar
 4. Add dark mode
 5. Add color mode switch
+6. Add Rawg API, fetch games data in to GameGrid
