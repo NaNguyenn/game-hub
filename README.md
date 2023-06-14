@@ -12,3 +12,4 @@
 Here are the steps used to build this project:
 
 1. Create new vite project using React + Typescript.
+2. Add Chakra UI
