@@ -15,3 +15,4 @@ Here are the steps used to build this project:
 2. Build responsive main layout with grid.
 3. Create navbar
 4. Add dark mode
+5. Add color mode switch
