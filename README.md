@@ -26,3 +26,4 @@ Here are the steps used to build this project:
 13. Add game card container to style both the game card and its skeleton.
 14. Fetch genres.
 15. Create generic useData hook to fetch data.
+16. Style the genres list.
