@@ -22,3 +22,4 @@ Here are the steps used to build this project:
 9. Add platform icons
 10. Add critic score
 11. Add optimized image for game cards
+12. Add game card loading state and skeleton
