@@ -20,3 +20,4 @@ Here are the steps used to build this project:
 7. Create custom useGames hook to fetch games data
 8. Create game card, switch from npm to yarn
 9. Add platform icons
+10. Add critic score
