@@ -27,3 +27,10 @@ Here are the steps used to build this project:
 14. Fetch genres.
 15. Create generic useData hook to fetch data.
 16. Style the genres list.
+17. Add genre loading spinner.
+18. Add filtering games by genre
+    - Add onSelectGenre Props to GenreList to tell parent (App) if a genre is selected.
+    - Add selectedGenre state to App and pass to GameGrid.
+    - Add selectedGenre Props to GameGrid and pass to useGames hook
+    - Pass selectedGenre from useGames to useData as params for AxiosRequestConfig.
+    - Add the requestConfig to useData get request.
