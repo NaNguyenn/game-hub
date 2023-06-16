@@ -19,3 +19,4 @@ Here are the steps used to build this project:
 6. Add Rawg API, fetch games data in to GameGrid
 7. Create custom useGames hook to fetch games data
 8. Create game card, switch from npm to yarn
+9. Add platform icons
