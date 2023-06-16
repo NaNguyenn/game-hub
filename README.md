@@ -13,13 +13,15 @@ Here are the steps used to build this project:
 
 1. Create new vite project using React + Typescript, add Chakra UI.
 2. Build responsive main layout with grid.
-3. Create navbar
-4. Add dark mode
-5. Add color mode switch
-6. Add Rawg API, fetch games data in to GameGrid
-7. Create custom useGames hook to fetch games data
-8. Create game card, switch from npm to yarn
-9. Add platform icons
-10. Add critic score
-11. Add optimized image for game cards
-12. Add game card loading state and skeleton
+3. Create navbar.
+4. Add dark mode.
+5. Add color mode switch.
+6. Add Rawg API, fetch games data in to GameGrid.
+7. Create custom useGames hook to fetch games data.
+8. Create game card, switch from npm to yarn.
+9. Add platform icons.
+10. Add critic score.
+11. Add optimized image for game cards.
+12. Add game card loading state and skeleton.
+13. Add game card container to style both the game card and its skeleton.
+14. Fetch genres.
