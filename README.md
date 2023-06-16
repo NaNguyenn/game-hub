@@ -37,3 +37,5 @@ Here are the steps used to build this project:
 19. Add hightlight to selected genre in genre list by passing selectedGenre from App to GenreList.
 20. Build the platform selector dropdown menu.
 21. Add filtering games by platforms (same as 18.)
+22. Refactor all query variables into a query object to pass around.
+23. Add sorting selector (same as 21).
