@@ -21,3 +21,4 @@ Here are the steps used to build this project:
 8. Create game card, switch from npm to yarn
 9. Add platform icons
 10. Add critic score
+11. Add optimized image for game cards
