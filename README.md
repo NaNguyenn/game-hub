@@ -39,3 +39,4 @@ Here are the steps used to build this project:
 21. Add filtering games by platforms (same as 18.)
 22. Refactor all query variables into a query object to pass around.
 23. Add sorting selector (same as 21).
+24. Add search bar.
