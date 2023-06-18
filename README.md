@@ -40,3 +40,4 @@ Here are the steps used to build this project:
 22. Refactor all query variables into a query object to pass around.
 23. Add sorting selector (same as 21).
 24. Add search bar.
+25. Add game heading.
