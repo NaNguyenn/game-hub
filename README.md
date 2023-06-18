@@ -41,3 +41,4 @@ Here are the steps used to build this project:
 23. Add sorting selector (same as 21).
 24. Add search bar.
 25. Add game heading.
+26. Export genres (rarely-changed) as static data to reduce api calls.
